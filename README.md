@@ -64,7 +64,7 @@ Adds user to a security group (`Operations-Users`) to simulate role-based access
 
 ### 5. Offboarding Script (PowerShell)
 
-![Offboarding Script](Screenshots/05-user-off-boarding-script-powershell.PNG)
+![Offboarding Script](Screenshots/05-user-offboarding-script-powershell.PNG)
 
 Handles secure user deprovisioning via automation.
 
